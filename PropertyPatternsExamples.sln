@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyPatternsExamples", "PropertyPatternsExamples\PropertyPatternsExamples.csproj", "{7B69F3B8-7566-41B6-A4EB-A2BD41085218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B69F3B8-7566-41B6-A4EB-A2BD41085218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B69F3B8-7566-41B6-A4EB-A2BD41085218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B69F3B8-7566-41B6-A4EB-A2BD41085218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B69F3B8-7566-41B6-A4EB-A2BD41085218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
